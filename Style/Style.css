@@ -498,4 +498,7 @@ footer {
     padding: 30px 10px;
     text-align: center;
 }
+.leon {
+    color : var(--min-color)
+}
 /* End Footer */
